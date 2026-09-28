@@ -1,0 +1,2 @@
+3	7	E_QUOTE_MID_FIELD	裸字段中出现引号
+5	20	E_QUOTE_MID_FIELD	裸字段中出现引号

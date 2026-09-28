@@ -1,0 +1,1 @@
+1	1	E_ENCODING_BOM	不支持的编码头

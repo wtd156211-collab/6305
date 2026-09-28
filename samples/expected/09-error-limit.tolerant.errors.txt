@@ -1,0 +1,4 @@
+3	10	E_QUOTE_MID_FIELD	裸字段中出现引号
+5	11	E_QUOTE_MID_FIELD	裸字段中出现引号
+7	10	E_QUOTE_MID_FIELD	裸字段中出现引号
+9	10	E_LIMIT	错误数达到上限
